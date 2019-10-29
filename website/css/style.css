@@ -1411,3 +1411,20 @@ h6 {
     padding: 100px 0 20px 0;
   }
 }
+
+.ion-icon{
+  font-size: 40px; 
+  background: #fff;
+  background-size: cover;
+  color: #007bff;
+  
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
