@@ -1,0 +1,37 @@
+.ftco-section-parallax {
+  position: relative; }
+  .ftco-section-parallax .parallax-img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    padding: 4em 0;
+    background: #157efb; }
+
+.ftco-section-parallax .heading-section h2 {
+    font-weight: bold; }
+
+
+.ftco-section {
+  padding: 7em 0;
+  position: relative; }
+  @media (max-width: 767.98px) {
+    .ftco-section {
+      padding: 6em 0; } }
+
+.ftco-section-parallax .parallax-btn {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    padding: 2em 0;
+    background: #0b3364; }
+
+
+    .ftco-section-parallax .parallax-btn a  
+{
+    border-radius: 28px;-moz-border-radius:28px;
+    -webkit-border-radius:28px;
+    border-radius:28px;
+    margin-top: 1.5em;
+}
